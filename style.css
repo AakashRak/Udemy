@@ -95,7 +95,7 @@ body {
     color: #df19df;
     cursor: pointer;
     color: black;
-    border: solid #df19df 2px;
+    border: solid #df19df 1px;
 }
 
 .sale-image {
